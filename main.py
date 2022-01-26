@@ -1,3 +1,5 @@
+# Created by BBernYY on https://github.com/BBernYY - The software may be allowed to be used, and modified, as long as this comment line stays here.
+
 def main():
     import utils # imports my customized utils module, with a test and timing function. https://GitHub.com/BBernYY/FancyCoding
     print("hello world!")
